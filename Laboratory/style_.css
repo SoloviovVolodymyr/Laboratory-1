@@ -1,0 +1,58 @@
+nav {
+    display: flex;
+    background: lightblue;
+    justify-content: space-between;
+
+}
+.logotyp {
+    height: 5%;
+    width: 5%;
+    padding-right: 30px;
+}
+.perehid {
+    list-style: none;
+    display: inline-block;
+    margin-top: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+a {
+    text-decoration: none;
+}
+.body{
+    background-color: lightgray;
+}
+.mainHead {
+    background-color: lightgray;
+    font-size:40px;
+}
+#mainPoint {
+    font-size: 35px;
+    padding-left: 35px;
+    text-decoration: none;
+    padding-top:35px;
+    border: double;
+}
+footer {
+    background-color: gray;
+    padding-bottom: 40px;
+    padding-top: 50px;
+}
+.cities {
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+.fotoCenter {
+    text-align: center;
+}
+p{
+    font-size:20px;
+    font-family:'Trebuchet MS'
+}
+.KyivBackground {
+    background-color: #70AABD;
+}
+.SantaBack {
+    background-color: #EFB2D6
+}
